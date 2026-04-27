@@ -6,6 +6,7 @@ This Repository is intended to assist in the creation of a fully functional Lenv
 
 <img width="392" height="660" alt="Screenshot 2026-04-26 at 9 02 25 PM" src="https://github.com/user-attachments/assets/e1da172a-06b7-4bd8-9989-31f3d3d0eb3e" />
 
+
 NOTE: This process is not for the faint of heart.  If you are the least bit squeamish about computer hardware or the finer points of the macOS, I implore you to turn away now. But if you have an eye for detail and enjoy the satisfaction of turning an unappreciated PC workhorse into a beautiful Mac treasure, then read on.
 
 NOTE: The reason this is even economically feasable is because many companies are disposing of these noble workhorse computers.  Many times, you can pick them up for little or nothing as our society slips further down the slope of disposable consumerism. 
