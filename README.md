@@ -23,6 +23,7 @@ WHAT WORKS:
 
 WHAT DOESN'T WORK:
 1. Front panel card reader
+2. Firefox - Installs, but doesn't handshake correctly with accelerated graphics
 
 # Hardware Overview
 
