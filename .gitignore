@@ -1,0 +1,15 @@
+# General macOS junk
+.DS_Store
+.AppleDouble
+.LSOverride
+.Trashes
+
+# Plist and OpenCore specific backups (saves clutter)
+*.bak
+*.plist.old
+*.tmp
+
+# Thumbnails and Metadata
+._*
+.Spotlight-V100
+.fseventsd
