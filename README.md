@@ -26,6 +26,14 @@ WHAT DOESN'T WORK:
 2. Firefox - Installs, but doesn't handshake correctly with accelerated graphics
 
 # Hardware Overview
+Component,Model,Notes
+CPU,Intel Xeon W-2133,6-Cores / 12-Threads @ 3.6GHz
+Motherboard,Lenovo P520 (C422 Chipset),Workstation Grade
+GPU,AMD Radeon Pro W6600,8GB GDDR6 - Full Metal Support
+RAM,32GB DDR4 ECC,Quad-Channel Config
+Storage (Boot),Samsung 860 EVO 1TB,SATA III - The 5-Year Veteran
+Storage (Win11),Samsung SM961 512GB,NVMe - OEM High Performance
+OS,macOS Tahoe 26.4.1,Build 25H2 Dual-Boot
 
 # Process
 
