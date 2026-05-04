@@ -4,8 +4,7 @@ How to Install macOS Tahoe 26.4.1 on a Lenovo ThinkStation P520-Xeon-CascadeLake
 # Overview
 This Repository is intended to assist in the creation of a fully functional Lenvo ThinkStation P520 Hackintosh running Tahoe 26.4.1. 
 
-<img width="392" height="660" alt="Screenshot 2026-04-26 at 9 02 25 PM" src="https://github.com/user-attachments/assets/e1da172a-06b7-4bd8-9989-31f3d3d0eb3e" />
-
+<img width="392" height="660" alt="image" src="https://github.com/user-attachments/assets/5f4b6f66-26ae-4152-a1ab-0465238446ff" />
 
 NOTE: This process is not for the faint of heart.  If you are the least bit squeamish about computer hardware or the finer points of the macOS, I implore you to turn away now. But if you have an eye for detail and enjoy the satisfaction of turning an unappreciated PC workhorse into a beautiful Mac treasure, then read on.
 
