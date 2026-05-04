@@ -28,7 +28,7 @@ WHAT DOESN'T WORK:
 
 | Component | Model | Notes |
 | :--- | :--- | :--- |
-| **CPU** | Intel Xeon W-2133 | 6-Cores / 12-Threads @ 3.6GHz |
+| **CPU** | Intel Xeon W-2150B | 10-Cores / 20-Threads @ 3.0GHz |
 | **Motherboard** | Lenovo P520 (C422 Chipset) | Workstation Grade |
 | **GPU** | AMD Radeon Pro W6600 | 8GB GDDR6 - Full Metal Support |
 | **RAM** | 32GB DDR4 ECC | Quad-Channel Config |
